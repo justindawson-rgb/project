@@ -1,0 +1,54 @@
+body {
+    background-image: url("images.jpeg");
+}
+
+
+nav {
+    background-color: #5d0707;
+    padding: 50px 24px;
+
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 100px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 20px;
+    padding: 20px;
+}
+
+nav a {
+    color: rgb(0, 0, 0);
+    text-decoration: rgb(61, 11, 105);
+    padding: 20px 89px;
+    border-radius: 60px;
+    font-size: xx-large;
+
+}
+
+nav a:hover {
+    background-color: #670911;
+    color: #7d0d96;
+
+}
+
+/* body {
+    background: rgb(90, 90, 201);
+    
+
+} */
+#img2{
+    width:500px;
+}
+a {
+    color: rgb(95, 138, 14);
+    margin-right: 20px;
+
+}
+
+h1 {
+    text-align: center;
+}
